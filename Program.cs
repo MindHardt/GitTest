@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Git example!");
+            Console.WriteLine("branch example");
         }
     }
 }
